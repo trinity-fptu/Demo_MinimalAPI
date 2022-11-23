@@ -9,4 +9,4 @@
 </ul>
 
 <h2>Captures</h2>
-![Screen](/screen-capture/screen-capture.png)
+![Screen](/screen_capture/screen_capture.png)
