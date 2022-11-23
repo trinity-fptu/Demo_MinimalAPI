@@ -8,5 +8,5 @@
     <li>Microsoft.EntityFrameworkCore.InMemory</li>
 </ul>
 
-<h2>Captures</h2>
+## Capture
 ![Screen](/screen_capture/screen_capture.png)
